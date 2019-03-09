@@ -1,5 +1,5 @@
 const DISCORD = require('discord.js');//loads js commands for discord
-const TOKEN = 'NTQ5NDA0MjYyOTI5NjYxOTc0.D1TYmw.YzcOCeKuzc_CBpAYBLe-cKWl--A';//connects Bot to code
+const TOKEN = '';//connects Bot to code
 const client = new DISCORD.Client();//creates client for bot
 
 global.servers = {}
